@@ -1,0 +1,101 @@
+Invoice No,Patient Name,Stent Type,Doctor Name,Amount
+INV0001,Riya Singh,Orsiro Mission,Dr. Neha Kapoor,56423
+INV0002,Diya Sharma,Supraflex Cruz,Dr. Amit Gupta,48203
+INV0003,Advait Reddy,Orsiro Mission,Dr. Deepa Rao,74962
+INV0004,Aarav Mehta,Supraflex Cruz,Dr. Anil Sharma,78784
+INV0005,Advait Patel,Promus Premier,Dr. Anil Sharma,79658
+INV0006,Anaya Singh,MiStent SES,Dr. Rajesh Mehta,41859
+INV0007,Aarav Mehta,Xience Alpine,Dr. Deepa Rao,57344
+INV0008,Advait Mehta,Synergy Megatron,Dr. Deepa Rao,67301
+INV0009,Advait Singh,Xience Alpine,Dr. Arjun Singh,75754
+INV0010,Anaya Sharma,Orsiro Mission,Dr. Arjun Singh,56048
+INV0011,Meera Singh,BioMatrix Alpha,Dr. Amit Gupta,69723
+INV0012,Aarav Reddy,Xience Alpine,Dr. Anil Sharma,68809
+INV0013,Ishaan Nair,Yukon Choice PC,Dr. Arjun Singh,53370
+INV0014,Anaya Singh,MiStent SES,Dr. Anil Sharma,60485
+INV0015,Arnav Patel,Ultimaster Nagomi,Dr. Rohan Verma,66130
+INV0016,Vivaan Nair,Ultimaster Nagomi,Dr. Kiran Patel,76808
+INV0017,Vivaan Sharma,Ultimaster Nagomi,Dr. Priya Nair,70570
+INV0018,Vivaan Patel,Orsiro Mission,Dr. Arjun Singh,56247
+INV0019,Vivaan Singh,Resolute Onyx,Dr. Rajesh Mehta,59019
+INV0020,Ishaan Sharma,MiStent SES,Dr. Sneha Reddy,56270
+INV0021,Arnav Patel,Promus Premier,Dr. Rohan Verma,77859
+INV0022,Kabir Reddy,Ultimaster Nagomi,Dr. Priya Nair,50442
+INV0023,Riya Patel,Supraflex Cruz,Dr. Arjun Singh,72686
+INV0024,Arnav Nair,Orsiro Mission,Dr. Arjun Singh,41518
+INV0025,Aarav Mehta,BioMatrix Alpha,Dr. Kiran Patel,69965
+INV0026,Diya Singh,Synergy Megatron,Dr. Deepa Rao,63127
+INV0027,Aarav Singh,Xience Alpine,Dr. Amit Gupta,72433
+INV0028,Advait Nair,Yukon Choice PC,Dr. Amit Gupta,75172
+INV0029,Aarav Sharma,Resolute Onyx,Dr. Sneha Reddy,48777
+INV0030,Arnav Nair,Orsiro Mission,Dr. Rohan Verma,66427
+INV0031,Anaya Mehta,Xience Alpine,Dr. Sneha Reddy,43352
+INV0032,Advait Sharma,Supraflex Cruz,Dr. Priya Nair,63758
+INV0033,Riya Mehta,Orsiro Mission,Dr. Neha Kapoor,65319
+INV0034,Riya Nair,Yukon Choice PC,Dr. Kiran Patel,58331
+INV0035,Meera Reddy,MiStent SES,Dr. Deepa Rao,47786
+INV0036,Vivaan Nair,Resolute Onyx,Dr. Sneha Reddy,64457
+INV0037,Meera Nair,Ultimaster Nagomi,Dr. Kiran Patel,63960
+INV0038,Meera Sharma,Promus Premier,Dr. Priya Nair,79483
+INV0039,Riya Nair,BioMatrix Alpha,Dr. Kiran Patel,42638
+INV0040,Aarav Nair,Xience Alpine,Dr. Anil Sharma,61826
+INV0041,Meera Singh,Yukon Choice PC,Dr. Kiran Patel,69949
+INV0042,Vivaan Singh,MiStent SES,Dr. Kiran Patel,49160
+INV0043,Anaya Nair,MiStent SES,Dr. Rohan Verma,50649
+INV0044,Ishaan Patel,MiStent SES,Dr. Amit Gupta,78910
+INV0045,Anaya Singh,Supraflex Cruz,Dr. Kiran Patel,74887
+INV0046,Riya Patel,MiStent SES,Dr. Amit Gupta,71122
+INV0047,Meera Reddy,Xience Alpine,Dr. Rohan Verma,61708
+INV0048,Kabir Patel,Resolute Onyx,Dr. Sneha Reddy,78253
+INV0049,Anaya Patel,Xience Alpine,Dr. Deepa Rao,71102
+INV0050,Diya Reddy,MiStent SES,Dr. Deepa Rao,54912
+INV0051,Kabir Reddy,Xience Alpine,Dr. Deepa Rao,71486
+INV0052,Vivaan Reddy,Supraflex Cruz,Dr. Deepa Rao,64916
+INV0053,Vivaan Singh,Synergy Megatron,Dr. Rajesh Mehta,77523
+INV0054,Kabir Nair,Resolute Onyx,Dr. Priya Nair,41241
+INV0055,Ishaan Reddy,Ultimaster Nagomi,Dr. Sneha Reddy,49924
+INV0056,Ishaan Nair,Synergy Megatron,Dr. Sneha Reddy,72887
+INV0057,Meera Patel,MiStent SES,Dr. Arjun Singh,44081
+INV0058,Kabir Singh,Promus Premier,Dr. Kiran Patel,53588
+INV0059,Riya Mehta,Ultimaster Nagomi,Dr. Arjun Singh,74437
+INV0060,Ishaan Sharma,Ultimaster Nagomi,Dr. Anil Sharma,70124
+INV0061,Arnav Reddy,Supraflex Cruz,Dr. Rohan Verma,75800
+INV0062,Anaya Reddy,Orsiro Mission,Dr. Deepa Rao,71731
+INV0063,Diya Sharma,Synergy Megatron,Dr. Amit Gupta,76574
+INV0064,Anaya Patel,Synergy Megatron,Dr. Amit Gupta,58940
+INV0065,Kabir Singh,Synergy Megatron,Dr. Arjun Singh,60777
+INV0066,Riya Sharma,Ultimaster Nagomi,Dr. Kiran Patel,57921
+INV0067,Anaya Sharma,Resolute Onyx,Dr. Deepa Rao,75598
+INV0068,Ishaan Sharma,BioMatrix Alpha,Dr. Rohan Verma,49599
+INV0069,Anaya Sharma,Xience Alpine,Dr. Amit Gupta,45179
+INV0070,Anaya Reddy,Yukon Choice PC,Dr. Amit Gupta,71396
+INV0071,Diya Patel,Synergy Megatron,Dr. Kiran Patel,57768
+INV0072,Arnav Mehta,Supraflex Cruz,Dr. Amit Gupta,48996
+INV0073,Vivaan Sharma,MiStent SES,Dr. Deepa Rao,55681
+INV0074,Diya Singh,Xience Alpine,Dr. Kiran Patel,54789
+INV0075,Advait Reddy,Synergy Megatron,Dr. Rajesh Mehta,46566
+INV0076,Ishaan Nair,Ultimaster Nagomi,Dr. Arjun Singh,46589
+INV0077,Kabir Patel,Promus Premier,Dr. Rajesh Mehta,76067
+INV0078,Arnav Mehta,Promus Premier,Dr. Sneha Reddy,71175
+INV0079,Riya Sharma,Synergy Megatron,Dr. Amit Gupta,61048
+INV0080,Anaya Sharma,Xience Alpine,Dr. Neha Kapoor,77626
+INV0081,Diya Nair,Supraflex Cruz,Dr. Rajesh Mehta,51473
+INV0082,Ishaan Nair,Promus Premier,Dr. Rajesh Mehta,66017
+INV0083,Meera Nair,Yukon Choice PC,Dr. Anil Sharma,58970
+INV0084,Arnav Nair,Xience Alpine,Dr. Rajesh Mehta,59555
+INV0085,Advait Sharma,MiStent SES,Dr. Neha Kapoor,61957
+INV0086,Anaya Sharma,Yukon Choice PC,Dr. Kiran Patel,74361
+INV0087,Riya Patel,Promus Premier,Dr. Kiran Patel,70672
+INV0088,Diya Mehta,Synergy Megatron,Dr. Neha Kapoor,61671
+INV0089,Vivaan Reddy,Yukon Choice PC,Dr. Amit Gupta,52202
+INV0090,Aarav Sharma,Ultimaster Nagomi,Dr. Amit Gupta,77210
+INV0091,Kabir Patel,Synergy Megatron,Dr. Anil Sharma,66574
+INV0092,Meera Reddy,BioMatrix Alpha,Dr. Kiran Patel,61491
+INV0093,Aarav Mehta,BioMatrix Alpha,Dr. Neha Kapoor,52109
+INV0094,Vivaan Nair,Yukon Choice PC,Dr. Rohan Verma,56256
+INV0095,Aarav Sharma,Orsiro Mission,Dr. Sneha Reddy,55435
+INV0096,Ishaan Reddy,Orsiro Mission,Dr. Rohan Verma,59788
+INV0097,Advait Patel,MiStent SES,Dr. Rajesh Mehta,57141
+INV0098,Advait Mehta,Ultimaster Nagomi,Dr. Priya Nair,44071
+INV0099,Kabir Sharma,Resolute Onyx,Dr. Arjun Singh,60106
+INV0100,Vivaan Reddy,BioMatrix Alpha,Dr. Kiran Patel,60380
